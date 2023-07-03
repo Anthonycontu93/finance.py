@@ -1,0 +1,11 @@
+cs50
+Flask
+Flask-Session
+requests
+Ipython
+matplotlib
+pandas == 1.4.4
+pandas-datareader
+alpaca.py
+alpaca
+yfinance
